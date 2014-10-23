@@ -10,6 +10,10 @@ Example usage:
 
 `dot -Tsvg 3752_1413807109.03.dot > sleep.svg`
 
-![map file example](/sleep.svg)
+or
+
+`dot -Tpng 3752_1413807109.03.dot > sleep.png`
+
+![:map file example](/sleep.png)
 
 
